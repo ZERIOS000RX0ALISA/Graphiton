@@ -1,0 +1,6 @@
+{
+  "name": "Graphiton",
+  "description": "Dedicated Android client for local stable-diffusion.cpp image-generation server",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="generations" path="generations/" />
+    <files-path name="compositions" path="compositions/" />
+    <files-path name="masks" path="masks/" />
+</paths>
